@@ -1,92 +1,28 @@
 <div align="center">
 
-# Hi there, I'm Jacob
+# Jacob · jacobrakai
 
-**AI/ML Engineer | Python Developer | Open Source Enthusiast**
+Small, sharp tools — security telemetry, AI agents, and multi-agent orchestration.
 
-[![Website](https://img.shields.io/badge/website-jacobrakai.org-blue)](http://jacobrakai.org)
-[![GitHub](https://img.shields.io/badge/GitHub-jacobyoby-black)](https://github.com/jacobyoby)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue)](https://www.python.org/)
+[![Website](https://img.shields.io/badge/website-jacobrakai.org-blue)](https://jacobrakai.org)
 
 </div>
 
-## About Me
+## Projects
 
-I'm passionate about building AI-powered applications and exploring the intersection of machine learning, computer vision, and game automation. I enjoy creating projects that combine cutting-edge AI technologies with practical, fun applications.
+### [honeypot-blocklist](https://github.com/jacobyoby/honeypot-blocklist)
+Honeypot-confirmed, recency-scored IP blocklist — live SSH/Telnet attackers captured by a self-operated Cowrie + Heralding sensor. Published continuously at [jacobrakai.org/feed](https://jacobrakai.org/feed).
 
-## Featured Projects
+### [claude-orgtree](https://github.com/jacobyoby/claude-orgtree)
+A custom orchestrator for Claude Code that arranges agents into an authority hierarchy. Full visibility and control over every agent in the tree, with credit allocation deciding how many subagents each agent can "hire".
 
-### [mewtoo](https://github.com/jacobyoby/mewtoo) - AI Pokemon Agent
-**An AI agent that autonomously plays Pokemon Red using LLMs, OCR, and memory reading**
+### [mewtoo](https://github.com/jacobyoby/mewtoo)
+An AI agent that autonomously plays Pokémon Red — LLM decision-making (Ollama/Claude), OCR screen reading, and emulator memory reading for precise game state.
 
-- Uses Large Language Models (Ollama/Claude) for intelligent decision-making
-- Computer Vision (OCR) to read game screens
-- Memory reading for precise game state tracking
-- Goal-oriented strategy system
-- Comprehensive metrics and performance tracking
+## Stack
 
-[![Version](https://img.shields.io/badge/version-0.0.7-blue)](https://github.com/jacobyoby/mewtoo)
-[![Python](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org/)
-[![Tests](https://img.shields.io/badge/tests-123+-brightgreen)](https://github.com/jacobyoby/mewtoo/tree/main/tests)
+Python · TypeScript · local LLMs (Ollama) · Claude · Docker · nginx · launchd/systemd · Cloudflare
 
-## Tech Stack
+## Reach me
 
-**Languages & Frameworks:**
-- Python
-- TypeScript/JavaScript
-- PowerShell
-
-**AI/ML:**
-- Large Language Models (Ollama, Claude)
-- Computer Vision (OCR, Tesseract)
-- Machine Learning
-
-**Tools & Technologies:**
-- Git & GitHub
-- PyBoy (Game Boy Emulator)
-- Docker
-- CI/CD
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobyoby&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobyoby&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## What I'm Working On
-
-- **mewtoo** - Continuing to improve the AI Pokemon agent with better strategies and optimizations
-- Security-focused development and best practices
-- Exploring new AI/ML applications
-
-## How to Reach Me
-
-- Website: [jacobrakai.org](http://jacobrakai.org)
-- GitHub: [@jacobyoby](https://github.com/jacobyoby)
-
-## Fun Facts
-
-- Building AI agents that play classic games
-- Python enthusiast
-- Security-conscious developer
-- Always learning new technologies
-
----
-
-<div align="center">
-
-**Thanks for visiting!**
-
-*"Code is poetry written in logic"*
-
-</div>
-
+[jacobrakai.org](https://jacobrakai.org)
