@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">jacobrakai</title>
+  <desc id="desc">A warm ivory wordmark with an orange geometric accent.</desc>
+  <defs>
+    <pattern id="lines" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(35)">
+      <path d="M0 0V16" stroke="#1a1a1a" stroke-width="3"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="240" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="240" fill="#f2ede4"/>
+    <rect width="12" height="240" fill="#e0742e"/>
+    <text x="56" y="157" fill="#1a1a1a" font-family="Arial, Helvetica, sans-serif" font-size="116" font-weight="700" letter-spacing="-7">jacobrakai<tspan fill="#c75c1e">.</tspan></text>
+    <circle cx="1052" cy="116" r="136" fill="#e0742e"/>
+    <circle cx="1113" cy="178" r="110" fill="url(#lines)"/>
+    <path d="M944 48h26M957 35v26" stroke="#1a1a1a" stroke-width="3"/>
+    <circle cx="1150" cy="44" r="9" fill="#f2ede4"/>
+  </g>
+</svg>
