@@ -1,35 +1,33 @@
-<div align="center">
-
 # Jacob · jacobrakai
 
-Small, sharp tools — security telemetry, AI agents, and multi-agent orchestration.
+I build tools for navigating courts, managing public records, and protecting online services. I also build AI agents that play Pokémon.
 
-[![Website](https://img.shields.io/badge/website-jacobrakai.org-e0742e)](https://jacobrakai.org)
-[![Foundation](https://img.shields.io/badge/nonprofit-Jacobrakai_Foundation-e0503a)](https://github.com/jacobrakaiFoundation)
+[Website](https://jacobrakai.org) · [Jacobrakai Foundation](https://github.com/jacobrakaiFoundation)
 
-</div>
+## Software for public access
 
-## Projects
+### [Forma Pauperis](https://forms.jacobrakai.org/)
+New Jersey court forms, free and step by step. No account required.
 
-### [Jacobrakai Foundation](https://github.com/jacobrakaiFoundation)
-A Washington nonprofit corporation publishing free resources for people navigating New Jersey courts, and for people protecting online services — [jacobrakai.org](https://jacobrakai.org).
+### [Sic Semper Errata](https://sicsempererrata.com/)
+Public-records software for New Jersey municipal clerks. Bellwether follows requests from intake through review, redaction, and release, keeping decisions and their stated authority with the record.
 
-### Forma Pauperis
-Every New Jersey court form, free and step by step, no account — [forms.jacobrakai.org](https://forms.jacobrakai.org/).
+**Status:** Public evaluation demo available; municipal deployment in development.
 
-### Sic Semper Errata
-Municipal public-records software for New Jersey clerks. Bellwether tracks an OPRA request from intake through record review and redaction to an approved release, keeping the decision and its stated authority with the record. Public evaluation demo, municipal deployment in development — [sicsempererrata.com](https://sicsempererrata.com/).
+## Security & experiments
 
 ### [honeypot-blocklist](https://github.com/jacobyoby/honeypot-blocklist)
-Honeypot-confirmed, recency-scored IP blocklist — live SSH/Telnet attackers captured by a self-operated Cowrie + Heralding sensor. Published continuously at [jacobrakai.org/feed](https://jacobrakai.org/feed).
+An IP blocklist built from SSH and Telnet attacks observed by my own honeypot sensor, scored by recency and published continuously. [View the feed →](https://jacobrakai.org/feed)
 
 ### [mewtoo](https://github.com/jacobyoby/mewtoo)
-An AI agent that autonomously plays Pokémon Red — LLM decision-making (Ollama/Claude), OCR screen reading, and emulator memory reading for precise game state.
+An AI agent playing Pokémon Red with LLM decisions, OCR, and emulator memory. A practical experiment in getting an agent to understand the screen and choose its next move.
 
-## Stack
+## Tools I work with
 
-TypeScript · Python · Express · SQLite · local LLMs (Ollama) · Claude · Docker · nginx · launchd/systemd · Cloudflare
+TypeScript · Python · Express · SQLite · Ollama · Claude · Docker · nginx · Cloudflare
 
-## Reach me
+---
 
-[jacobrakai.org](https://jacobrakai.org)
+[**Jacobrakai Foundation**](https://github.com/jacobrakaiFoundation) is a Washington nonprofit corporation publishing free resources for people navigating New Jersey courts and protecting online services.
+
+Explore the work at [jacobrakai.org →](https://jacobrakai.org).
