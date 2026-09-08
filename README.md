@@ -1,37 +1,27 @@
 # jacobrakai
 
-**I build court tools, run honeypots, and teach AI to play Pokémon.**
+I'm Jacob. I build tools for people doing their own court paperwork and clerks handling public-records requests. I also run a honeypot and teach a language model to play Pokémon Red.
 
 <img src="assets/workshop.webp" alt="Illustrated workbench: court papers and a red stamp, a terminal wired to a honey jar, a purple handheld console, and a sleeping black dog." width="1774" height="887" />
 
 [jacobrakai.org](https://jacobrakai.org) · [Jacobrakai Foundation](https://github.com/jacobrakaiFoundation)
 
-## Paperwork, meet software.
+## Court forms and public records
 
-### Forma Pauperis
+### [Forma Pauperis](https://formapauperis.com/)
 
-New Jersey court forms, step by step. Free to fill out. No account required.
+Find the New Jersey court form you need and work through it step by step. Free to use, without an account.
 
-**[Find a form →](https://formapauperis.com/)**
+### [Sic Semper Errata](https://sicsempererrata.com/)
 
-### Sic Semper Errata
+Tools for municipal clerks to manage records requests from intake through review and release. The [Bellwether demo](https://demo.sicsempererrata.com/) uses sample records; [municipal deployment is still in development](https://sicsempererrata.com/editions/).
 
-Town hall gets paperwork too. Public-records software for municipal clerks, with a Bellwether demo you can try using sample records.
+## Security and side projects
 
-**[Try Bellwether →](https://demo.sicsempererrata.com/)**
+**[honeypot-blocklist](https://github.com/jacobyoby/honeypot-blocklist)** — I publish the IPs caught attacking my SSH/Telnet honeypot as a blocklist. You can [use the feed](https://jacobrakai.org/feed/) or inspect how it's built.
 
-Demo available. [Municipal deployment is in development.](https://sicsempererrata.com/editions/)
+**[mewtoo](https://github.com/jacobyoby/mewtoo)** — A large language model playing a game built for a very small computer: Pokémon Red, through a Game Boy emulator.
 
-## The internet keeps knocking.
+**[nodary](https://github.com/jacobyoby/nodary)** — Looks for unusual sender identities and message patterns in email. The analysis stays on your device.
 
-**honeypot-blocklist** turns attacks observed by my SSH/Telnet honeypot into a published IP blocklist.
-
-[Use the feed →](https://jacobrakai.org/feed/) · [Read the code](https://github.com/jacobyoby/honeypot-blocklist)
-
-## Side quests
-
-**[mewtoo](https://github.com/jacobyoby/mewtoo)** — Teaching an agent to play Pokémon Red. Pocket monsters for the rest of us.
-
-**[nodary](https://github.com/jacobyoby/nodary)** — Email analysis that keeps behavioral processing on your device.
-
-**[culk](https://github.com/jacobyoby/culk)** — A bulk image culler. For the folder of photos you haven't sorted yet.
+**[culk](https://github.com/jacobyoby/culk)** — A photo-culling app for rating images, marking picks and rejects, and deciding what to keep.
