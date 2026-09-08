@@ -12,7 +12,13 @@ Small, sharp tools — security telemetry, AI agents, and multi-agent orchestrat
 ## Projects
 
 ### [Jacobrakai Foundation](https://github.com/jacobrakaiFoundation)
-Every New Jersey court form, free and step by step, no account — [forms.jacobrakai.org](https://forms.jacobrakai.org/). Operated as a Washington nonprofit corporation.
+A Washington nonprofit corporation publishing free resources for people navigating New Jersey courts, and for people protecting online services — [jacobrakai.org](https://jacobrakai.org).
+
+### Forma Pauperis
+Every New Jersey court form, free and step by step, no account — [forms.jacobrakai.org](https://forms.jacobrakai.org/).
+
+### Sic Semper Errata
+Municipal public-records software for New Jersey clerks. Bellwether tracks an OPRA request from intake through record review and redaction to an approved release, keeping the decision and its stated authority with the record. Public evaluation demo, municipal deployment in development — [sicsempererrata.com](https://sicsempererrata.com/).
 
 ### [honeypot-blocklist](https://github.com/jacobyoby/honeypot-blocklist)
 Honeypot-confirmed, recency-scored IP blocklist — live SSH/Telnet attackers captured by a self-operated Cowrie + Heralding sensor. Published continuously at [jacobrakai.org/feed](https://jacobrakai.org/feed).
@@ -25,7 +31,7 @@ An AI agent that autonomously plays Pokémon Red — LLM decision-making (Ollama
 
 ## Stack
 
-Python · TypeScript · local LLMs (Ollama) · Claude · Docker · nginx · launchd/systemd · Cloudflare
+TypeScript · Python · Express · SQLite · local LLMs (Ollama) · Claude · Docker · nginx · launchd/systemd · Cloudflare
 
 ## Reach me
 
