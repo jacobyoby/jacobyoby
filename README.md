@@ -16,4 +16,4 @@ I'm Jacob. I build tools for people doing their own court paperwork and for cler
 
 **[mewtoo](https://github.com/jacobyoby/mewtoo)** — I connect a language model to a Game Boy emulator so it can play Pokémon Red. The code handles game state, controls, and model calls.
 
-[jacobrakai.org](https://jacobrakai.org) · [Jacobrakai Foundation](https://github.com/jacobrakaiFoundation) (IRS 501(c)(3) public charity, EIN 33-3382083, effective Feb 11, 2025) · [More repositories](https://github.com/jacobyoby?tab=repositories)
+[jacobrakai.org](https://jacobrakai.org) · [Jacobrakai Foundation](https://github.com/jacobrakaiFoundation) (IRS 501(c)(3) public charity, EIN 33-3382083, effective Feb 11, 2025) · [Donate / Support Jacobrakai Foundation — JACOBRAKAI FOUNDATION 501(c)(3)](https://donate.stripe.com/eVq4gy97DanS9h60phfrW00) · [More repositories](https://github.com/jacobyoby?tab=repositories)
