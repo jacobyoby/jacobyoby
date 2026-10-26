@@ -2,6 +2,8 @@
 
 I'm Jacob. I build tools for people doing their own court paperwork and for clerks handling public-records requests. I also publish security research and threat data.
 
+**Open to new roles.** Email [jacob@jacobrakai.org](mailto:jacob@jacobrakai.org) or message me on [LinkedIn](https://linkedin.com/in/jacobjacobdurham). I write Python, TypeScript, Go, Swift, Kotlin, and PowerShell.
+
 <img src="assets/workshop.webp" alt="Illustrated workbench: court papers and a red stamp, a terminal wired to a honey jar, a purple handheld console, and a sleeping black dog." width="1774" height="887" />
 
 ## Court forms and public records
